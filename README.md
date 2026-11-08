@@ -10,8 +10,7 @@ atmosphere onto both the evolving and the static surface, and takes the differen
 difference isolates the climate signal of urban form alone.
 
 The code produces the results in *Dynamic urban morphology projections reveal critical
-biases in future climate risk assessment*. Release v1.0.0 is the version those results
-came from.
+biases in future climate risk assessment*. Release v1.0.1 is the version those results came from.
 
 Status: research prototype. It supports a paper under review. Bugs will be fixed. New
 features are not planned.

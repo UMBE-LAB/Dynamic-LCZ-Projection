@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1
+
+Documentation only. States the supported operating systems and tidies `.gitignore`.
+This is the release to cite.
+
 ## 1.0.0
 
 First release. This version produced every figure, table and number in
