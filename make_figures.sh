@@ -4,7 +4,7 @@ set -u
 : "${CASPER_DATA:?set CASPER_DATA to the preprocessed forcing directory}"
 : "${CASPER_CACHE:?set CASPER_CACHE to the directory holding the downscaling caches}"
 : "${CASPER_MODEL:?set CASPER_MODEL to the trained CASPER checkpoint}"
-: "${LCZ_PROJECT_DIR:?set LCZ_PROJECT_DIR to the directory holding <city>/Future_LCZ_geo_em}"
+: "${LCZ_PROJECT_DIR:?set LCZ_PROJECT_DIR to the directory holding <city>/Future_LCZ_geo_em; shoreline.py draws no coastlines without it}"
 : "${NE_DATA:?set NE_DATA to a directory of Natural Earth 10m geojson files}"
 : "${CASPER_CONFIG:=$PWD/config_mac.yaml}"
 : "${CASPER_CITIES:=Montreal Toronto Vancouver}"
@@ -22,8 +22,5 @@ python ncc_figures.py \
     --unet_model    "$CASPER_MODEL" \
     --cities $CASPER_CITIES \
     --fig2_decade 2100 --batch_size 16
-
-python build_nature_fig1.py
-python build_nature_fig6.py
 
 echo "=== FIGURES COMPLETE ($(date)) -> $FIGURE_OUT ==="

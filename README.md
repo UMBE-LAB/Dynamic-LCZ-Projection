@@ -115,9 +115,8 @@ separately.
 
 ## Reproducing the paper figures
 
-`make_figures.sh` regenerates every figure in the paper. `ncc_figures.py` draws Figures 2
-to 5 and the supplementary figures and tables from the cached fields. `build_nature_fig1.py`
-and `build_nature_fig6.py` draw the two schematic figures.
+`make_figures.sh` regenerates Figures 2 to 5 and the supplementary figures and tables from
+the cached fields, through `ncc_figures.py`.
 
 ```bash
 pip install -r requirements.txt -r requirements-figures.txt
@@ -129,13 +128,19 @@ export NE_DATA=/path/to/natural_earth_geojson
 bash make_figures.sh
 ```
 
-Every path comes from the environment and each script stops with a clear message if one
+Every path comes from the environment and the driver stops with a named variable if one
 is missing. Figures go to `figures/`, or to `FIGURE_OUT` if you set it. The coastlines
 need the 10 m `coastline`, `lakes` and `rivers_lake_centerlines` geojson files from
 [Natural Earth](https://www.naturalearthdata.com/downloads/10m-physical-vectors/), which
-are too large to keep here. `figure_assets/` holds the two inputs that are not
-reproducible from the data: the schematic of the model grid and the bias decomposition
-that Figure 1 reports.
+are too large to keep here.
+
+Figures 1 and 6 are schematics rather than plots, and they are authored in draw.io rather
+than in Python. `figures_1_and_6/` holds the editable sources. Open `figures_1_and_6.drawio`
+in diagrams.net; it has one page per figure. `make_panels.py` regenerates the two vector
+analysis panels that the schematics embed, and `NOTES.txt` records the design decisions
+and two caveats worth reading: the decomposition bar widths are computed from the rounded
+values the paper reports rather than from raw output, and the humidex curves are preserved
+from the earlier figure with newly drawn axes calibrated to it.
 
 ## Data from this project
 
@@ -161,10 +166,8 @@ __main__.py            lets the directory itself be run with `python .`
 
 ncc_figures.py         figure and cache library shared by stage 2 and the figure scripts
 shoreline.py           coastlines for the map panels
-build_nature_fig1.py   Figure 1
-build_nature_fig6.py   Figure 6
-make_figures.sh        regenerates every figure in the paper
-figure_assets/         figure inputs that are not reproducible from the data
+make_figures.sh        regenerates Figures 2 to 5 and the supplementary items
+figures_1_and_6/       draw.io sources for the two schematic figures
 
 precompute_caches.py   one CASPER inference pass per scenario, writes the field caches
 refix_static.py        rebuilds the static-baseline caches from the corrected present-day LCZ

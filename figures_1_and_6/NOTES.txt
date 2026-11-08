@@ -1,0 +1,72 @@
+REDESIGNED FIGURES 1 AND 6
+
+Open figures_1_and_6.drawio in diagrams.net / draw.io. It contains two pages.
+Individual .drawio, .pdf, .svg and .png files are also provided.
+PDF/SVG figures are 180 mm wide. PNG exports are 450 dpi at that width.
+Analytical axes, labels and bars are vector objects in the full PDF/SVG.
+The HTML files are self-contained, offline previews.
+
+Source material
+- lcz_paper_v5.docx, including Figure 1/6 captions and Online Methods.
+- Original figures: lcz_paper_v5/word/media/image1.png and image6.png.
+- Chen, Li and Liu (2022), Scientific Data 9:125,
+  doi:10.1038/s41597-022-01208-6, particularly Figure 1 and pp. 2-5.
+
+Design
+The scientific-figure-making skill supplies the Arial typography, white
+background, restrained palette, editable vector text, hatching and print sizing.
+The diagram-design skill supplies the tinted stage zones, semantic shape/border
+types, orthogonal connections and separation of demand from spatial allocation.
+The explicit request for draw.io determines the editable authoring format.
+
+Figure 1
+- Preserves the original static/SSP1/SSP3/SSP5 maps, WRF illustration,
+  static temperature map, spatial bias, humidex curves and decomposition.
+- Makes the paired CASPER comparison explicit: the city, decade, atmospheric
+  predictors, RCP and terrain match; the LCZ-derived land-use input changes.
+- Redraws decomposition from original rounded labels: 0.58, 0.38, 0.14 K,
+  and 15%, 15%, 7% intensification. Segment widths are approximate because
+  they are calculated from those rounded labels, not raw analysis output.
+- Humidex curve pixels are preserved from the original figure, with newly
+  drawn axes, scenario legends and titles. The axes are calibrated to the
+  original pixel coordinates. No time-series values were invented/digitized.
+- The spatial bias and static temperature images have no original colorbars;
+  they are treated as qualitative illustrations. No scale was invented.
+
+Figure 6
+- Preserves all five numbered processes and the main input/output relations.
+- Replaces the tiny fraction-chart illustration with its explicit product label.
+- Historical LCZ maps feed both Markov analysis and LEAS. Markov products
+  inform LCZ demand and the transition matrix. Expansion maps plus driving
+  factors train the random forest; the spatial allocator receives probabilities,
+  demand and the transition matrix. The projected maps connect to CASPER.
+- Keeps the original WUDAPT-to-WRF (w2w) conversion stage.
+- Distinguishes raw 1-km climate fields from derived UHI/humidex diagnostics.
+
+Editability and verification
+Boxes, labels, connections, stage boundaries and LCZ swatches are native
+draw.io objects. Maps and the WRF illustration remain embedded PNGs; analytical
+panels are embedded SVG objects. Panel text is editable in the standalone SVG
+or can be regenerated with the Python script. Individual map cells and curve
+values are not editable data series in draw.io.
+
+The Windows Electron exporter could not start in the sandbox. PDF/PNG/SVG
+exports therefore use Matplotlib to render the same native node geometry and
+explicit connection routes. XML/image integrity, required graph paths, bounds,
+offline HTML checks and rendered PDFs were checked. Opening and re-exporting
+inside the draw.io desktop app was not tested; minor text wrapping may differ.
+
+Scientific scope
+The reference paper uses FLUS and PFT products; this study uses PLUS and LCZs.
+Only its stage-layout grammar is borrowed. Its eight SSP-RCP source scenarios
+differ from the manuscript's eight climate pairings. The manuscript pairings
+are preserved; the mapping from source land scenarios needs author verification
+and cannot be resolved from the supplied figure images.
+No model results were recomputed. The manuscript and existing v1 exports remain.
+
+Rebuild from the workspace root
+  python -B figures_redesign/scripts/redesign_figures.py
+  python -B figures_redesign/scripts/check_redesign.py
+Requires existing matplotlib, Pillow and Node.js with the bundled pdf-lib;
+no new dependency was installed. vector_panels.mjs points to this machine's
+existing runtime dependency directory.
