@@ -1,0 +1,681 @@
+SSP,Year,LCZ_Type,LCZ_Description,Category,Pixel_Count,Pct_of_Total
+SSP1,2030,1,Compact high-rise,Urban Land,0,0.0
+SSP1,2030,2,Compact midrise,Urban Land,108,8.33
+SSP1,2030,3,Compact low-rise,Urban Land,371,28.6
+SSP1,2030,4,Open high-rise,Urban Land,0,0.0
+SSP1,2030,5,Open midrise,Urban Land,362,27.91
+SSP1,2030,6,Open low-rise,Urban Land,343,26.45
+SSP1,2030,7,Lightweight low-rise,Urban Land,0,0.0
+SSP1,2030,8,Large low-rise,Urban Land,113,8.71
+SSP1,2030,9,Sparsely built,Urban Land,0,0.0
+SSP1,2030,10,Heavy industry,Urban Land,0,0.0
+SSP1,2030,11,Dense trees (A),Forest,0,0.0
+SSP1,2030,12,Scattered trees (B),Forest,0,0.0
+SSP1,2030,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP1,2030,14,Low plants (D),Crops,0,0.0
+SSP1,2030,15,Bare rock/paved (E),Barren,0,0.0
+SSP1,2030,16,Bare soil/sand (F),Barren,0,0.0
+SSP1,2030,17,Water (G),Water,0,0.0
+SSP1,2040,1,Compact high-rise,Urban Land,0,0.0
+SSP1,2040,2,Compact midrise,Urban Land,95,7.33
+SSP1,2040,3,Compact low-rise,Urban Land,366,28.24
+SSP1,2040,4,Open high-rise,Urban Land,0,0.0
+SSP1,2040,5,Open midrise,Urban Land,359,27.7
+SSP1,2040,6,Open low-rise,Urban Land,364,28.09
+SSP1,2040,7,Lightweight low-rise,Urban Land,0,0.0
+SSP1,2040,8,Large low-rise,Urban Land,112,8.64
+SSP1,2040,9,Sparsely built,Urban Land,0,0.0
+SSP1,2040,10,Heavy industry,Urban Land,0,0.0
+SSP1,2040,11,Dense trees (A),Forest,0,0.0
+SSP1,2040,12,Scattered trees (B),Forest,0,0.0
+SSP1,2040,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP1,2040,14,Low plants (D),Crops,0,0.0
+SSP1,2040,15,Bare rock/paved (E),Barren,0,0.0
+SSP1,2040,16,Bare soil/sand (F),Barren,0,0.0
+SSP1,2040,17,Water (G),Water,0,0.0
+SSP1,2050,1,Compact high-rise,Urban Land,0,0.0
+SSP1,2050,2,Compact midrise,Urban Land,91,7.02
+SSP1,2050,3,Compact low-rise,Urban Land,363,28.01
+SSP1,2050,4,Open high-rise,Urban Land,0,0.0
+SSP1,2050,5,Open midrise,Urban Land,364,28.09
+SSP1,2050,6,Open low-rise,Urban Land,366,28.24
+SSP1,2050,7,Lightweight low-rise,Urban Land,0,0.0
+SSP1,2050,8,Large low-rise,Urban Land,112,8.64
+SSP1,2050,9,Sparsely built,Urban Land,0,0.0
+SSP1,2050,10,Heavy industry,Urban Land,0,0.0
+SSP1,2050,11,Dense trees (A),Forest,0,0.0
+SSP1,2050,12,Scattered trees (B),Forest,0,0.0
+SSP1,2050,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP1,2050,14,Low plants (D),Crops,0,0.0
+SSP1,2050,15,Bare rock/paved (E),Barren,0,0.0
+SSP1,2050,16,Bare soil/sand (F),Barren,0,0.0
+SSP1,2050,17,Water (G),Water,0,0.0
+SSP1,2060,1,Compact high-rise,Urban Land,0,0.0
+SSP1,2060,2,Compact midrise,Urban Land,88,6.79
+SSP1,2060,3,Compact low-rise,Urban Land,358,27.62
+SSP1,2060,4,Open high-rise,Urban Land,0,0.0
+SSP1,2060,5,Open midrise,Urban Land,375,28.94
+SSP1,2060,6,Open low-rise,Urban Land,363,28.01
+SSP1,2060,7,Lightweight low-rise,Urban Land,0,0.0
+SSP1,2060,8,Large low-rise,Urban Land,112,8.64
+SSP1,2060,9,Sparsely built,Urban Land,0,0.0
+SSP1,2060,10,Heavy industry,Urban Land,0,0.0
+SSP1,2060,11,Dense trees (A),Forest,0,0.0
+SSP1,2060,12,Scattered trees (B),Forest,0,0.0
+SSP1,2060,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP1,2060,14,Low plants (D),Crops,0,0.0
+SSP1,2060,15,Bare rock/paved (E),Barren,0,0.0
+SSP1,2060,16,Bare soil/sand (F),Barren,0,0.0
+SSP1,2060,17,Water (G),Water,0,0.0
+SSP1,2070,1,Compact high-rise,Urban Land,0,0.0
+SSP1,2070,2,Compact midrise,Urban Land,84,6.48
+SSP1,2070,3,Compact low-rise,Urban Land,360,27.76
+SSP1,2070,4,Open high-rise,Urban Land,0,0.0
+SSP1,2070,5,Open midrise,Urban Land,371,28.6
+SSP1,2070,6,Open low-rise,Urban Land,369,28.45
+SSP1,2070,7,Lightweight low-rise,Urban Land,0,0.0
+SSP1,2070,8,Large low-rise,Urban Land,113,8.71
+SSP1,2070,9,Sparsely built,Urban Land,0,0.0
+SSP1,2070,10,Heavy industry,Urban Land,0,0.0
+SSP1,2070,11,Dense trees (A),Forest,0,0.0
+SSP1,2070,12,Scattered trees (B),Forest,0,0.0
+SSP1,2070,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP1,2070,14,Low plants (D),Crops,0,0.0
+SSP1,2070,15,Bare rock/paved (E),Barren,0,0.0
+SSP1,2070,16,Bare soil/sand (F),Barren,0,0.0
+SSP1,2070,17,Water (G),Water,0,0.0
+SSP1,2080,1,Compact high-rise,Urban Land,0,0.0
+SSP1,2080,2,Compact midrise,Urban Land,85,6.56
+SSP1,2080,3,Compact low-rise,Urban Land,361,27.85
+SSP1,2080,4,Open high-rise,Urban Land,0,0.0
+SSP1,2080,5,Open midrise,Urban Land,366,28.24
+SSP1,2080,6,Open low-rise,Urban Land,371,28.63
+SSP1,2080,7,Lightweight low-rise,Urban Land,0,0.0
+SSP1,2080,8,Large low-rise,Urban Land,113,8.72
+SSP1,2080,9,Sparsely built,Urban Land,0,0.0
+SSP1,2080,10,Heavy industry,Urban Land,0,0.0
+SSP1,2080,11,Dense trees (A),Forest,0,0.0
+SSP1,2080,12,Scattered trees (B),Forest,0,0.0
+SSP1,2080,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP1,2080,14,Low plants (D),Crops,0,0.0
+SSP1,2080,15,Bare rock/paved (E),Barren,0,0.0
+SSP1,2080,16,Bare soil/sand (F),Barren,0,0.0
+SSP1,2080,17,Water (G),Water,0,0.0
+SSP1,2090,1,Compact high-rise,Urban Land,0,0.0
+SSP1,2090,2,Compact midrise,Urban Land,87,6.71
+SSP1,2090,3,Compact low-rise,Urban Land,358,27.62
+SSP1,2090,4,Open high-rise,Urban Land,0,0.0
+SSP1,2090,5,Open midrise,Urban Land,374,28.86
+SSP1,2090,6,Open low-rise,Urban Land,363,28.01
+SSP1,2090,7,Lightweight low-rise,Urban Land,0,0.0
+SSP1,2090,8,Large low-rise,Urban Land,114,8.8
+SSP1,2090,9,Sparsely built,Urban Land,0,0.0
+SSP1,2090,10,Heavy industry,Urban Land,0,0.0
+SSP1,2090,11,Dense trees (A),Forest,0,0.0
+SSP1,2090,12,Scattered trees (B),Forest,0,0.0
+SSP1,2090,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP1,2090,14,Low plants (D),Crops,0,0.0
+SSP1,2090,15,Bare rock/paved (E),Barren,0,0.0
+SSP1,2090,16,Bare soil/sand (F),Barren,0,0.0
+SSP1,2090,17,Water (G),Water,0,0.0
+SSP1,2100,1,Compact high-rise,Urban Land,0,0.0
+SSP1,2100,2,Compact midrise,Urban Land,87,6.71
+SSP1,2100,3,Compact low-rise,Urban Land,359,27.7
+SSP1,2100,4,Open high-rise,Urban Land,0,0.0
+SSP1,2100,5,Open midrise,Urban Land,374,28.86
+SSP1,2100,6,Open low-rise,Urban Land,361,27.85
+SSP1,2100,7,Lightweight low-rise,Urban Land,0,0.0
+SSP1,2100,8,Large low-rise,Urban Land,115,8.87
+SSP1,2100,9,Sparsely built,Urban Land,0,0.0
+SSP1,2100,10,Heavy industry,Urban Land,0,0.0
+SSP1,2100,11,Dense trees (A),Forest,0,0.0
+SSP1,2100,12,Scattered trees (B),Forest,0,0.0
+SSP1,2100,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP1,2100,14,Low plants (D),Crops,0,0.0
+SSP1,2100,15,Bare rock/paved (E),Barren,0,0.0
+SSP1,2100,16,Bare soil/sand (F),Barren,0,0.0
+SSP1,2100,17,Water (G),Water,0,0.0
+SSP2,2030,1,Compact high-rise,Urban Land,0,0.0
+SSP2,2030,2,Compact midrise,Urban Land,108,8.33
+SSP2,2030,3,Compact low-rise,Urban Land,371,28.6
+SSP2,2030,4,Open high-rise,Urban Land,0,0.0
+SSP2,2030,5,Open midrise,Urban Land,362,27.91
+SSP2,2030,6,Open low-rise,Urban Land,343,26.45
+SSP2,2030,7,Lightweight low-rise,Urban Land,0,0.0
+SSP2,2030,8,Large low-rise,Urban Land,113,8.71
+SSP2,2030,9,Sparsely built,Urban Land,0,0.0
+SSP2,2030,10,Heavy industry,Urban Land,0,0.0
+SSP2,2030,11,Dense trees (A),Forest,0,0.0
+SSP2,2030,12,Scattered trees (B),Forest,0,0.0
+SSP2,2030,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP2,2030,14,Low plants (D),Crops,0,0.0
+SSP2,2030,15,Bare rock/paved (E),Barren,0,0.0
+SSP2,2030,16,Bare soil/sand (F),Barren,0,0.0
+SSP2,2030,17,Water (G),Water,0,0.0
+SSP2,2040,1,Compact high-rise,Urban Land,0,0.0
+SSP2,2040,2,Compact midrise,Urban Land,95,7.33
+SSP2,2040,3,Compact low-rise,Urban Land,366,28.24
+SSP2,2040,4,Open high-rise,Urban Land,0,0.0
+SSP2,2040,5,Open midrise,Urban Land,359,27.7
+SSP2,2040,6,Open low-rise,Urban Land,364,28.09
+SSP2,2040,7,Lightweight low-rise,Urban Land,0,0.0
+SSP2,2040,8,Large low-rise,Urban Land,112,8.64
+SSP2,2040,9,Sparsely built,Urban Land,0,0.0
+SSP2,2040,10,Heavy industry,Urban Land,0,0.0
+SSP2,2040,11,Dense trees (A),Forest,0,0.0
+SSP2,2040,12,Scattered trees (B),Forest,0,0.0
+SSP2,2040,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP2,2040,14,Low plants (D),Crops,0,0.0
+SSP2,2040,15,Bare rock/paved (E),Barren,0,0.0
+SSP2,2040,16,Bare soil/sand (F),Barren,0,0.0
+SSP2,2040,17,Water (G),Water,0,0.0
+SSP2,2050,1,Compact high-rise,Urban Land,0,0.0
+SSP2,2050,2,Compact midrise,Urban Land,91,7.02
+SSP2,2050,3,Compact low-rise,Urban Land,363,28.01
+SSP2,2050,4,Open high-rise,Urban Land,0,0.0
+SSP2,2050,5,Open midrise,Urban Land,364,28.09
+SSP2,2050,6,Open low-rise,Urban Land,366,28.24
+SSP2,2050,7,Lightweight low-rise,Urban Land,0,0.0
+SSP2,2050,8,Large low-rise,Urban Land,112,8.64
+SSP2,2050,9,Sparsely built,Urban Land,0,0.0
+SSP2,2050,10,Heavy industry,Urban Land,0,0.0
+SSP2,2050,11,Dense trees (A),Forest,0,0.0
+SSP2,2050,12,Scattered trees (B),Forest,0,0.0
+SSP2,2050,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP2,2050,14,Low plants (D),Crops,0,0.0
+SSP2,2050,15,Bare rock/paved (E),Barren,0,0.0
+SSP2,2050,16,Bare soil/sand (F),Barren,0,0.0
+SSP2,2050,17,Water (G),Water,0,0.0
+SSP2,2060,1,Compact high-rise,Urban Land,0,0.0
+SSP2,2060,2,Compact midrise,Urban Land,88,6.79
+SSP2,2060,3,Compact low-rise,Urban Land,358,27.62
+SSP2,2060,4,Open high-rise,Urban Land,0,0.0
+SSP2,2060,5,Open midrise,Urban Land,375,28.94
+SSP2,2060,6,Open low-rise,Urban Land,363,28.01
+SSP2,2060,7,Lightweight low-rise,Urban Land,0,0.0
+SSP2,2060,8,Large low-rise,Urban Land,112,8.64
+SSP2,2060,9,Sparsely built,Urban Land,0,0.0
+SSP2,2060,10,Heavy industry,Urban Land,0,0.0
+SSP2,2060,11,Dense trees (A),Forest,0,0.0
+SSP2,2060,12,Scattered trees (B),Forest,0,0.0
+SSP2,2060,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP2,2060,14,Low plants (D),Crops,0,0.0
+SSP2,2060,15,Bare rock/paved (E),Barren,0,0.0
+SSP2,2060,16,Bare soil/sand (F),Barren,0,0.0
+SSP2,2060,17,Water (G),Water,0,0.0
+SSP2,2070,1,Compact high-rise,Urban Land,0,0.0
+SSP2,2070,2,Compact midrise,Urban Land,84,6.48
+SSP2,2070,3,Compact low-rise,Urban Land,360,27.76
+SSP2,2070,4,Open high-rise,Urban Land,0,0.0
+SSP2,2070,5,Open midrise,Urban Land,371,28.6
+SSP2,2070,6,Open low-rise,Urban Land,369,28.45
+SSP2,2070,7,Lightweight low-rise,Urban Land,0,0.0
+SSP2,2070,8,Large low-rise,Urban Land,113,8.71
+SSP2,2070,9,Sparsely built,Urban Land,0,0.0
+SSP2,2070,10,Heavy industry,Urban Land,0,0.0
+SSP2,2070,11,Dense trees (A),Forest,0,0.0
+SSP2,2070,12,Scattered trees (B),Forest,0,0.0
+SSP2,2070,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP2,2070,14,Low plants (D),Crops,0,0.0
+SSP2,2070,15,Bare rock/paved (E),Barren,0,0.0
+SSP2,2070,16,Bare soil/sand (F),Barren,0,0.0
+SSP2,2070,17,Water (G),Water,0,0.0
+SSP2,2080,1,Compact high-rise,Urban Land,0,0.0
+SSP2,2080,2,Compact midrise,Urban Land,85,6.56
+SSP2,2080,3,Compact low-rise,Urban Land,361,27.85
+SSP2,2080,4,Open high-rise,Urban Land,0,0.0
+SSP2,2080,5,Open midrise,Urban Land,366,28.24
+SSP2,2080,6,Open low-rise,Urban Land,371,28.63
+SSP2,2080,7,Lightweight low-rise,Urban Land,0,0.0
+SSP2,2080,8,Large low-rise,Urban Land,113,8.72
+SSP2,2080,9,Sparsely built,Urban Land,0,0.0
+SSP2,2080,10,Heavy industry,Urban Land,0,0.0
+SSP2,2080,11,Dense trees (A),Forest,0,0.0
+SSP2,2080,12,Scattered trees (B),Forest,0,0.0
+SSP2,2080,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP2,2080,14,Low plants (D),Crops,0,0.0
+SSP2,2080,15,Bare rock/paved (E),Barren,0,0.0
+SSP2,2080,16,Bare soil/sand (F),Barren,0,0.0
+SSP2,2080,17,Water (G),Water,0,0.0
+SSP2,2090,1,Compact high-rise,Urban Land,0,0.0
+SSP2,2090,2,Compact midrise,Urban Land,87,6.71
+SSP2,2090,3,Compact low-rise,Urban Land,358,27.62
+SSP2,2090,4,Open high-rise,Urban Land,0,0.0
+SSP2,2090,5,Open midrise,Urban Land,374,28.86
+SSP2,2090,6,Open low-rise,Urban Land,363,28.01
+SSP2,2090,7,Lightweight low-rise,Urban Land,0,0.0
+SSP2,2090,8,Large low-rise,Urban Land,114,8.8
+SSP2,2090,9,Sparsely built,Urban Land,0,0.0
+SSP2,2090,10,Heavy industry,Urban Land,0,0.0
+SSP2,2090,11,Dense trees (A),Forest,0,0.0
+SSP2,2090,12,Scattered trees (B),Forest,0,0.0
+SSP2,2090,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP2,2090,14,Low plants (D),Crops,0,0.0
+SSP2,2090,15,Bare rock/paved (E),Barren,0,0.0
+SSP2,2090,16,Bare soil/sand (F),Barren,0,0.0
+SSP2,2090,17,Water (G),Water,0,0.0
+SSP2,2100,1,Compact high-rise,Urban Land,0,0.0
+SSP2,2100,2,Compact midrise,Urban Land,87,6.71
+SSP2,2100,3,Compact low-rise,Urban Land,359,27.7
+SSP2,2100,4,Open high-rise,Urban Land,0,0.0
+SSP2,2100,5,Open midrise,Urban Land,374,28.86
+SSP2,2100,6,Open low-rise,Urban Land,361,27.85
+SSP2,2100,7,Lightweight low-rise,Urban Land,0,0.0
+SSP2,2100,8,Large low-rise,Urban Land,115,8.87
+SSP2,2100,9,Sparsely built,Urban Land,0,0.0
+SSP2,2100,10,Heavy industry,Urban Land,0,0.0
+SSP2,2100,11,Dense trees (A),Forest,0,0.0
+SSP2,2100,12,Scattered trees (B),Forest,0,0.0
+SSP2,2100,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP2,2100,14,Low plants (D),Crops,0,0.0
+SSP2,2100,15,Bare rock/paved (E),Barren,0,0.0
+SSP2,2100,16,Bare soil/sand (F),Barren,0,0.0
+SSP2,2100,17,Water (G),Water,0,0.0
+SSP3,2030,1,Compact high-rise,Urban Land,0,0.0
+SSP3,2030,2,Compact midrise,Urban Land,108,8.33
+SSP3,2030,3,Compact low-rise,Urban Land,371,28.6
+SSP3,2030,4,Open high-rise,Urban Land,0,0.0
+SSP3,2030,5,Open midrise,Urban Land,362,27.91
+SSP3,2030,6,Open low-rise,Urban Land,343,26.45
+SSP3,2030,7,Lightweight low-rise,Urban Land,0,0.0
+SSP3,2030,8,Large low-rise,Urban Land,113,8.71
+SSP3,2030,9,Sparsely built,Urban Land,0,0.0
+SSP3,2030,10,Heavy industry,Urban Land,0,0.0
+SSP3,2030,11,Dense trees (A),Forest,0,0.0
+SSP3,2030,12,Scattered trees (B),Forest,0,0.0
+SSP3,2030,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP3,2030,14,Low plants (D),Crops,0,0.0
+SSP3,2030,15,Bare rock/paved (E),Barren,0,0.0
+SSP3,2030,16,Bare soil/sand (F),Barren,0,0.0
+SSP3,2030,17,Water (G),Water,0,0.0
+SSP3,2040,1,Compact high-rise,Urban Land,0,0.0
+SSP3,2040,2,Compact midrise,Urban Land,95,7.33
+SSP3,2040,3,Compact low-rise,Urban Land,366,28.24
+SSP3,2040,4,Open high-rise,Urban Land,0,0.0
+SSP3,2040,5,Open midrise,Urban Land,359,27.7
+SSP3,2040,6,Open low-rise,Urban Land,364,28.09
+SSP3,2040,7,Lightweight low-rise,Urban Land,0,0.0
+SSP3,2040,8,Large low-rise,Urban Land,112,8.64
+SSP3,2040,9,Sparsely built,Urban Land,0,0.0
+SSP3,2040,10,Heavy industry,Urban Land,0,0.0
+SSP3,2040,11,Dense trees (A),Forest,0,0.0
+SSP3,2040,12,Scattered trees (B),Forest,0,0.0
+SSP3,2040,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP3,2040,14,Low plants (D),Crops,0,0.0
+SSP3,2040,15,Bare rock/paved (E),Barren,0,0.0
+SSP3,2040,16,Bare soil/sand (F),Barren,0,0.0
+SSP3,2040,17,Water (G),Water,0,0.0
+SSP3,2050,1,Compact high-rise,Urban Land,0,0.0
+SSP3,2050,2,Compact midrise,Urban Land,91,7.02
+SSP3,2050,3,Compact low-rise,Urban Land,363,28.01
+SSP3,2050,4,Open high-rise,Urban Land,0,0.0
+SSP3,2050,5,Open midrise,Urban Land,364,28.09
+SSP3,2050,6,Open low-rise,Urban Land,366,28.24
+SSP3,2050,7,Lightweight low-rise,Urban Land,0,0.0
+SSP3,2050,8,Large low-rise,Urban Land,112,8.64
+SSP3,2050,9,Sparsely built,Urban Land,0,0.0
+SSP3,2050,10,Heavy industry,Urban Land,0,0.0
+SSP3,2050,11,Dense trees (A),Forest,0,0.0
+SSP3,2050,12,Scattered trees (B),Forest,0,0.0
+SSP3,2050,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP3,2050,14,Low plants (D),Crops,0,0.0
+SSP3,2050,15,Bare rock/paved (E),Barren,0,0.0
+SSP3,2050,16,Bare soil/sand (F),Barren,0,0.0
+SSP3,2050,17,Water (G),Water,0,0.0
+SSP3,2060,1,Compact high-rise,Urban Land,0,0.0
+SSP3,2060,2,Compact midrise,Urban Land,88,6.79
+SSP3,2060,3,Compact low-rise,Urban Land,358,27.62
+SSP3,2060,4,Open high-rise,Urban Land,0,0.0
+SSP3,2060,5,Open midrise,Urban Land,375,28.94
+SSP3,2060,6,Open low-rise,Urban Land,363,28.01
+SSP3,2060,7,Lightweight low-rise,Urban Land,0,0.0
+SSP3,2060,8,Large low-rise,Urban Land,112,8.64
+SSP3,2060,9,Sparsely built,Urban Land,0,0.0
+SSP3,2060,10,Heavy industry,Urban Land,0,0.0
+SSP3,2060,11,Dense trees (A),Forest,0,0.0
+SSP3,2060,12,Scattered trees (B),Forest,0,0.0
+SSP3,2060,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP3,2060,14,Low plants (D),Crops,0,0.0
+SSP3,2060,15,Bare rock/paved (E),Barren,0,0.0
+SSP3,2060,16,Bare soil/sand (F),Barren,0,0.0
+SSP3,2060,17,Water (G),Water,0,0.0
+SSP3,2070,1,Compact high-rise,Urban Land,0,0.0
+SSP3,2070,2,Compact midrise,Urban Land,84,6.48
+SSP3,2070,3,Compact low-rise,Urban Land,360,27.76
+SSP3,2070,4,Open high-rise,Urban Land,0,0.0
+SSP3,2070,5,Open midrise,Urban Land,371,28.6
+SSP3,2070,6,Open low-rise,Urban Land,369,28.45
+SSP3,2070,7,Lightweight low-rise,Urban Land,0,0.0
+SSP3,2070,8,Large low-rise,Urban Land,113,8.71
+SSP3,2070,9,Sparsely built,Urban Land,0,0.0
+SSP3,2070,10,Heavy industry,Urban Land,0,0.0
+SSP3,2070,11,Dense trees (A),Forest,0,0.0
+SSP3,2070,12,Scattered trees (B),Forest,0,0.0
+SSP3,2070,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP3,2070,14,Low plants (D),Crops,0,0.0
+SSP3,2070,15,Bare rock/paved (E),Barren,0,0.0
+SSP3,2070,16,Bare soil/sand (F),Barren,0,0.0
+SSP3,2070,17,Water (G),Water,0,0.0
+SSP3,2080,1,Compact high-rise,Urban Land,0,0.0
+SSP3,2080,2,Compact midrise,Urban Land,85,6.56
+SSP3,2080,3,Compact low-rise,Urban Land,361,27.85
+SSP3,2080,4,Open high-rise,Urban Land,0,0.0
+SSP3,2080,5,Open midrise,Urban Land,366,28.24
+SSP3,2080,6,Open low-rise,Urban Land,371,28.63
+SSP3,2080,7,Lightweight low-rise,Urban Land,0,0.0
+SSP3,2080,8,Large low-rise,Urban Land,113,8.72
+SSP3,2080,9,Sparsely built,Urban Land,0,0.0
+SSP3,2080,10,Heavy industry,Urban Land,0,0.0
+SSP3,2080,11,Dense trees (A),Forest,0,0.0
+SSP3,2080,12,Scattered trees (B),Forest,0,0.0
+SSP3,2080,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP3,2080,14,Low plants (D),Crops,0,0.0
+SSP3,2080,15,Bare rock/paved (E),Barren,0,0.0
+SSP3,2080,16,Bare soil/sand (F),Barren,0,0.0
+SSP3,2080,17,Water (G),Water,0,0.0
+SSP3,2090,1,Compact high-rise,Urban Land,0,0.0
+SSP3,2090,2,Compact midrise,Urban Land,87,6.71
+SSP3,2090,3,Compact low-rise,Urban Land,358,27.62
+SSP3,2090,4,Open high-rise,Urban Land,0,0.0
+SSP3,2090,5,Open midrise,Urban Land,374,28.86
+SSP3,2090,6,Open low-rise,Urban Land,363,28.01
+SSP3,2090,7,Lightweight low-rise,Urban Land,0,0.0
+SSP3,2090,8,Large low-rise,Urban Land,114,8.8
+SSP3,2090,9,Sparsely built,Urban Land,0,0.0
+SSP3,2090,10,Heavy industry,Urban Land,0,0.0
+SSP3,2090,11,Dense trees (A),Forest,0,0.0
+SSP3,2090,12,Scattered trees (B),Forest,0,0.0
+SSP3,2090,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP3,2090,14,Low plants (D),Crops,0,0.0
+SSP3,2090,15,Bare rock/paved (E),Barren,0,0.0
+SSP3,2090,16,Bare soil/sand (F),Barren,0,0.0
+SSP3,2090,17,Water (G),Water,0,0.0
+SSP3,2100,1,Compact high-rise,Urban Land,0,0.0
+SSP3,2100,2,Compact midrise,Urban Land,87,6.71
+SSP3,2100,3,Compact low-rise,Urban Land,359,27.7
+SSP3,2100,4,Open high-rise,Urban Land,0,0.0
+SSP3,2100,5,Open midrise,Urban Land,374,28.86
+SSP3,2100,6,Open low-rise,Urban Land,361,27.85
+SSP3,2100,7,Lightweight low-rise,Urban Land,0,0.0
+SSP3,2100,8,Large low-rise,Urban Land,115,8.87
+SSP3,2100,9,Sparsely built,Urban Land,0,0.0
+SSP3,2100,10,Heavy industry,Urban Land,0,0.0
+SSP3,2100,11,Dense trees (A),Forest,0,0.0
+SSP3,2100,12,Scattered trees (B),Forest,0,0.0
+SSP3,2100,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP3,2100,14,Low plants (D),Crops,0,0.0
+SSP3,2100,15,Bare rock/paved (E),Barren,0,0.0
+SSP3,2100,16,Bare soil/sand (F),Barren,0,0.0
+SSP3,2100,17,Water (G),Water,0,0.0
+SSP4,2030,1,Compact high-rise,Urban Land,0,0.0
+SSP4,2030,2,Compact midrise,Urban Land,108,8.33
+SSP4,2030,3,Compact low-rise,Urban Land,371,28.6
+SSP4,2030,4,Open high-rise,Urban Land,0,0.0
+SSP4,2030,5,Open midrise,Urban Land,362,27.91
+SSP4,2030,6,Open low-rise,Urban Land,343,26.45
+SSP4,2030,7,Lightweight low-rise,Urban Land,0,0.0
+SSP4,2030,8,Large low-rise,Urban Land,113,8.71
+SSP4,2030,9,Sparsely built,Urban Land,0,0.0
+SSP4,2030,10,Heavy industry,Urban Land,0,0.0
+SSP4,2030,11,Dense trees (A),Forest,0,0.0
+SSP4,2030,12,Scattered trees (B),Forest,0,0.0
+SSP4,2030,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP4,2030,14,Low plants (D),Crops,0,0.0
+SSP4,2030,15,Bare rock/paved (E),Barren,0,0.0
+SSP4,2030,16,Bare soil/sand (F),Barren,0,0.0
+SSP4,2030,17,Water (G),Water,0,0.0
+SSP4,2040,1,Compact high-rise,Urban Land,0,0.0
+SSP4,2040,2,Compact midrise,Urban Land,95,7.33
+SSP4,2040,3,Compact low-rise,Urban Land,366,28.24
+SSP4,2040,4,Open high-rise,Urban Land,0,0.0
+SSP4,2040,5,Open midrise,Urban Land,359,27.7
+SSP4,2040,6,Open low-rise,Urban Land,364,28.09
+SSP4,2040,7,Lightweight low-rise,Urban Land,0,0.0
+SSP4,2040,8,Large low-rise,Urban Land,112,8.64
+SSP4,2040,9,Sparsely built,Urban Land,0,0.0
+SSP4,2040,10,Heavy industry,Urban Land,0,0.0
+SSP4,2040,11,Dense trees (A),Forest,0,0.0
+SSP4,2040,12,Scattered trees (B),Forest,0,0.0
+SSP4,2040,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP4,2040,14,Low plants (D),Crops,0,0.0
+SSP4,2040,15,Bare rock/paved (E),Barren,0,0.0
+SSP4,2040,16,Bare soil/sand (F),Barren,0,0.0
+SSP4,2040,17,Water (G),Water,0,0.0
+SSP4,2050,1,Compact high-rise,Urban Land,0,0.0
+SSP4,2050,2,Compact midrise,Urban Land,91,7.02
+SSP4,2050,3,Compact low-rise,Urban Land,363,28.01
+SSP4,2050,4,Open high-rise,Urban Land,0,0.0
+SSP4,2050,5,Open midrise,Urban Land,364,28.09
+SSP4,2050,6,Open low-rise,Urban Land,366,28.24
+SSP4,2050,7,Lightweight low-rise,Urban Land,0,0.0
+SSP4,2050,8,Large low-rise,Urban Land,112,8.64
+SSP4,2050,9,Sparsely built,Urban Land,0,0.0
+SSP4,2050,10,Heavy industry,Urban Land,0,0.0
+SSP4,2050,11,Dense trees (A),Forest,0,0.0
+SSP4,2050,12,Scattered trees (B),Forest,0,0.0
+SSP4,2050,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP4,2050,14,Low plants (D),Crops,0,0.0
+SSP4,2050,15,Bare rock/paved (E),Barren,0,0.0
+SSP4,2050,16,Bare soil/sand (F),Barren,0,0.0
+SSP4,2050,17,Water (G),Water,0,0.0
+SSP4,2060,1,Compact high-rise,Urban Land,0,0.0
+SSP4,2060,2,Compact midrise,Urban Land,88,6.79
+SSP4,2060,3,Compact low-rise,Urban Land,358,27.62
+SSP4,2060,4,Open high-rise,Urban Land,0,0.0
+SSP4,2060,5,Open midrise,Urban Land,375,28.94
+SSP4,2060,6,Open low-rise,Urban Land,363,28.01
+SSP4,2060,7,Lightweight low-rise,Urban Land,0,0.0
+SSP4,2060,8,Large low-rise,Urban Land,112,8.64
+SSP4,2060,9,Sparsely built,Urban Land,0,0.0
+SSP4,2060,10,Heavy industry,Urban Land,0,0.0
+SSP4,2060,11,Dense trees (A),Forest,0,0.0
+SSP4,2060,12,Scattered trees (B),Forest,0,0.0
+SSP4,2060,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP4,2060,14,Low plants (D),Crops,0,0.0
+SSP4,2060,15,Bare rock/paved (E),Barren,0,0.0
+SSP4,2060,16,Bare soil/sand (F),Barren,0,0.0
+SSP4,2060,17,Water (G),Water,0,0.0
+SSP4,2070,1,Compact high-rise,Urban Land,0,0.0
+SSP4,2070,2,Compact midrise,Urban Land,84,6.48
+SSP4,2070,3,Compact low-rise,Urban Land,360,27.76
+SSP4,2070,4,Open high-rise,Urban Land,0,0.0
+SSP4,2070,5,Open midrise,Urban Land,371,28.6
+SSP4,2070,6,Open low-rise,Urban Land,369,28.45
+SSP4,2070,7,Lightweight low-rise,Urban Land,0,0.0
+SSP4,2070,8,Large low-rise,Urban Land,113,8.71
+SSP4,2070,9,Sparsely built,Urban Land,0,0.0
+SSP4,2070,10,Heavy industry,Urban Land,0,0.0
+SSP4,2070,11,Dense trees (A),Forest,0,0.0
+SSP4,2070,12,Scattered trees (B),Forest,0,0.0
+SSP4,2070,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP4,2070,14,Low plants (D),Crops,0,0.0
+SSP4,2070,15,Bare rock/paved (E),Barren,0,0.0
+SSP4,2070,16,Bare soil/sand (F),Barren,0,0.0
+SSP4,2070,17,Water (G),Water,0,0.0
+SSP4,2080,1,Compact high-rise,Urban Land,0,0.0
+SSP4,2080,2,Compact midrise,Urban Land,85,6.56
+SSP4,2080,3,Compact low-rise,Urban Land,361,27.85
+SSP4,2080,4,Open high-rise,Urban Land,0,0.0
+SSP4,2080,5,Open midrise,Urban Land,366,28.24
+SSP4,2080,6,Open low-rise,Urban Land,371,28.63
+SSP4,2080,7,Lightweight low-rise,Urban Land,0,0.0
+SSP4,2080,8,Large low-rise,Urban Land,113,8.72
+SSP4,2080,9,Sparsely built,Urban Land,0,0.0
+SSP4,2080,10,Heavy industry,Urban Land,0,0.0
+SSP4,2080,11,Dense trees (A),Forest,0,0.0
+SSP4,2080,12,Scattered trees (B),Forest,0,0.0
+SSP4,2080,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP4,2080,14,Low plants (D),Crops,0,0.0
+SSP4,2080,15,Bare rock/paved (E),Barren,0,0.0
+SSP4,2080,16,Bare soil/sand (F),Barren,0,0.0
+SSP4,2080,17,Water (G),Water,0,0.0
+SSP4,2090,1,Compact high-rise,Urban Land,0,0.0
+SSP4,2090,2,Compact midrise,Urban Land,87,6.71
+SSP4,2090,3,Compact low-rise,Urban Land,358,27.62
+SSP4,2090,4,Open high-rise,Urban Land,0,0.0
+SSP4,2090,5,Open midrise,Urban Land,374,28.86
+SSP4,2090,6,Open low-rise,Urban Land,363,28.01
+SSP4,2090,7,Lightweight low-rise,Urban Land,0,0.0
+SSP4,2090,8,Large low-rise,Urban Land,114,8.8
+SSP4,2090,9,Sparsely built,Urban Land,0,0.0
+SSP4,2090,10,Heavy industry,Urban Land,0,0.0
+SSP4,2090,11,Dense trees (A),Forest,0,0.0
+SSP4,2090,12,Scattered trees (B),Forest,0,0.0
+SSP4,2090,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP4,2090,14,Low plants (D),Crops,0,0.0
+SSP4,2090,15,Bare rock/paved (E),Barren,0,0.0
+SSP4,2090,16,Bare soil/sand (F),Barren,0,0.0
+SSP4,2090,17,Water (G),Water,0,0.0
+SSP4,2100,1,Compact high-rise,Urban Land,0,0.0
+SSP4,2100,2,Compact midrise,Urban Land,87,6.71
+SSP4,2100,3,Compact low-rise,Urban Land,359,27.7
+SSP4,2100,4,Open high-rise,Urban Land,0,0.0
+SSP4,2100,5,Open midrise,Urban Land,374,28.86
+SSP4,2100,6,Open low-rise,Urban Land,361,27.85
+SSP4,2100,7,Lightweight low-rise,Urban Land,0,0.0
+SSP4,2100,8,Large low-rise,Urban Land,115,8.87
+SSP4,2100,9,Sparsely built,Urban Land,0,0.0
+SSP4,2100,10,Heavy industry,Urban Land,0,0.0
+SSP4,2100,11,Dense trees (A),Forest,0,0.0
+SSP4,2100,12,Scattered trees (B),Forest,0,0.0
+SSP4,2100,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP4,2100,14,Low plants (D),Crops,0,0.0
+SSP4,2100,15,Bare rock/paved (E),Barren,0,0.0
+SSP4,2100,16,Bare soil/sand (F),Barren,0,0.0
+SSP4,2100,17,Water (G),Water,0,0.0
+SSP5,2030,1,Compact high-rise,Urban Land,0,0.0
+SSP5,2030,2,Compact midrise,Urban Land,108,8.33
+SSP5,2030,3,Compact low-rise,Urban Land,371,28.6
+SSP5,2030,4,Open high-rise,Urban Land,0,0.0
+SSP5,2030,5,Open midrise,Urban Land,362,27.91
+SSP5,2030,6,Open low-rise,Urban Land,343,26.45
+SSP5,2030,7,Lightweight low-rise,Urban Land,0,0.0
+SSP5,2030,8,Large low-rise,Urban Land,113,8.71
+SSP5,2030,9,Sparsely built,Urban Land,0,0.0
+SSP5,2030,10,Heavy industry,Urban Land,0,0.0
+SSP5,2030,11,Dense trees (A),Forest,0,0.0
+SSP5,2030,12,Scattered trees (B),Forest,0,0.0
+SSP5,2030,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP5,2030,14,Low plants (D),Crops,0,0.0
+SSP5,2030,15,Bare rock/paved (E),Barren,0,0.0
+SSP5,2030,16,Bare soil/sand (F),Barren,0,0.0
+SSP5,2030,17,Water (G),Water,0,0.0
+SSP5,2040,1,Compact high-rise,Urban Land,0,0.0
+SSP5,2040,2,Compact midrise,Urban Land,95,7.33
+SSP5,2040,3,Compact low-rise,Urban Land,366,28.24
+SSP5,2040,4,Open high-rise,Urban Land,0,0.0
+SSP5,2040,5,Open midrise,Urban Land,359,27.7
+SSP5,2040,6,Open low-rise,Urban Land,364,28.09
+SSP5,2040,7,Lightweight low-rise,Urban Land,0,0.0
+SSP5,2040,8,Large low-rise,Urban Land,112,8.64
+SSP5,2040,9,Sparsely built,Urban Land,0,0.0
+SSP5,2040,10,Heavy industry,Urban Land,0,0.0
+SSP5,2040,11,Dense trees (A),Forest,0,0.0
+SSP5,2040,12,Scattered trees (B),Forest,0,0.0
+SSP5,2040,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP5,2040,14,Low plants (D),Crops,0,0.0
+SSP5,2040,15,Bare rock/paved (E),Barren,0,0.0
+SSP5,2040,16,Bare soil/sand (F),Barren,0,0.0
+SSP5,2040,17,Water (G),Water,0,0.0
+SSP5,2050,1,Compact high-rise,Urban Land,0,0.0
+SSP5,2050,2,Compact midrise,Urban Land,91,7.02
+SSP5,2050,3,Compact low-rise,Urban Land,363,28.01
+SSP5,2050,4,Open high-rise,Urban Land,0,0.0
+SSP5,2050,5,Open midrise,Urban Land,364,28.09
+SSP5,2050,6,Open low-rise,Urban Land,366,28.24
+SSP5,2050,7,Lightweight low-rise,Urban Land,0,0.0
+SSP5,2050,8,Large low-rise,Urban Land,112,8.64
+SSP5,2050,9,Sparsely built,Urban Land,0,0.0
+SSP5,2050,10,Heavy industry,Urban Land,0,0.0
+SSP5,2050,11,Dense trees (A),Forest,0,0.0
+SSP5,2050,12,Scattered trees (B),Forest,0,0.0
+SSP5,2050,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP5,2050,14,Low plants (D),Crops,0,0.0
+SSP5,2050,15,Bare rock/paved (E),Barren,0,0.0
+SSP5,2050,16,Bare soil/sand (F),Barren,0,0.0
+SSP5,2050,17,Water (G),Water,0,0.0
+SSP5,2060,1,Compact high-rise,Urban Land,0,0.0
+SSP5,2060,2,Compact midrise,Urban Land,88,6.79
+SSP5,2060,3,Compact low-rise,Urban Land,358,27.62
+SSP5,2060,4,Open high-rise,Urban Land,0,0.0
+SSP5,2060,5,Open midrise,Urban Land,375,28.94
+SSP5,2060,6,Open low-rise,Urban Land,363,28.01
+SSP5,2060,7,Lightweight low-rise,Urban Land,0,0.0
+SSP5,2060,8,Large low-rise,Urban Land,112,8.64
+SSP5,2060,9,Sparsely built,Urban Land,0,0.0
+SSP5,2060,10,Heavy industry,Urban Land,0,0.0
+SSP5,2060,11,Dense trees (A),Forest,0,0.0
+SSP5,2060,12,Scattered trees (B),Forest,0,0.0
+SSP5,2060,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP5,2060,14,Low plants (D),Crops,0,0.0
+SSP5,2060,15,Bare rock/paved (E),Barren,0,0.0
+SSP5,2060,16,Bare soil/sand (F),Barren,0,0.0
+SSP5,2060,17,Water (G),Water,0,0.0
+SSP5,2070,1,Compact high-rise,Urban Land,0,0.0
+SSP5,2070,2,Compact midrise,Urban Land,84,6.48
+SSP5,2070,3,Compact low-rise,Urban Land,360,27.76
+SSP5,2070,4,Open high-rise,Urban Land,0,0.0
+SSP5,2070,5,Open midrise,Urban Land,371,28.6
+SSP5,2070,6,Open low-rise,Urban Land,369,28.45
+SSP5,2070,7,Lightweight low-rise,Urban Land,0,0.0
+SSP5,2070,8,Large low-rise,Urban Land,113,8.71
+SSP5,2070,9,Sparsely built,Urban Land,0,0.0
+SSP5,2070,10,Heavy industry,Urban Land,0,0.0
+SSP5,2070,11,Dense trees (A),Forest,0,0.0
+SSP5,2070,12,Scattered trees (B),Forest,0,0.0
+SSP5,2070,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP5,2070,14,Low plants (D),Crops,0,0.0
+SSP5,2070,15,Bare rock/paved (E),Barren,0,0.0
+SSP5,2070,16,Bare soil/sand (F),Barren,0,0.0
+SSP5,2070,17,Water (G),Water,0,0.0
+SSP5,2080,1,Compact high-rise,Urban Land,0,0.0
+SSP5,2080,2,Compact midrise,Urban Land,85,6.56
+SSP5,2080,3,Compact low-rise,Urban Land,361,27.85
+SSP5,2080,4,Open high-rise,Urban Land,0,0.0
+SSP5,2080,5,Open midrise,Urban Land,366,28.24
+SSP5,2080,6,Open low-rise,Urban Land,371,28.63
+SSP5,2080,7,Lightweight low-rise,Urban Land,0,0.0
+SSP5,2080,8,Large low-rise,Urban Land,113,8.72
+SSP5,2080,9,Sparsely built,Urban Land,0,0.0
+SSP5,2080,10,Heavy industry,Urban Land,0,0.0
+SSP5,2080,11,Dense trees (A),Forest,0,0.0
+SSP5,2080,12,Scattered trees (B),Forest,0,0.0
+SSP5,2080,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP5,2080,14,Low plants (D),Crops,0,0.0
+SSP5,2080,15,Bare rock/paved (E),Barren,0,0.0
+SSP5,2080,16,Bare soil/sand (F),Barren,0,0.0
+SSP5,2080,17,Water (G),Water,0,0.0
+SSP5,2090,1,Compact high-rise,Urban Land,0,0.0
+SSP5,2090,2,Compact midrise,Urban Land,87,6.71
+SSP5,2090,3,Compact low-rise,Urban Land,358,27.62
+SSP5,2090,4,Open high-rise,Urban Land,0,0.0
+SSP5,2090,5,Open midrise,Urban Land,374,28.86
+SSP5,2090,6,Open low-rise,Urban Land,363,28.01
+SSP5,2090,7,Lightweight low-rise,Urban Land,0,0.0
+SSP5,2090,8,Large low-rise,Urban Land,114,8.8
+SSP5,2090,9,Sparsely built,Urban Land,0,0.0
+SSP5,2090,10,Heavy industry,Urban Land,0,0.0
+SSP5,2090,11,Dense trees (A),Forest,0,0.0
+SSP5,2090,12,Scattered trees (B),Forest,0,0.0
+SSP5,2090,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP5,2090,14,Low plants (D),Crops,0,0.0
+SSP5,2090,15,Bare rock/paved (E),Barren,0,0.0
+SSP5,2090,16,Bare soil/sand (F),Barren,0,0.0
+SSP5,2090,17,Water (G),Water,0,0.0
+SSP5,2100,1,Compact high-rise,Urban Land,0,0.0
+SSP5,2100,2,Compact midrise,Urban Land,87,6.71
+SSP5,2100,3,Compact low-rise,Urban Land,359,27.7
+SSP5,2100,4,Open high-rise,Urban Land,0,0.0
+SSP5,2100,5,Open midrise,Urban Land,374,28.86
+SSP5,2100,6,Open low-rise,Urban Land,361,27.85
+SSP5,2100,7,Lightweight low-rise,Urban Land,0,0.0
+SSP5,2100,8,Large low-rise,Urban Land,115,8.87
+SSP5,2100,9,Sparsely built,Urban Land,0,0.0
+SSP5,2100,10,Heavy industry,Urban Land,0,0.0
+SSP5,2100,11,Dense trees (A),Forest,0,0.0
+SSP5,2100,12,Scattered trees (B),Forest,0,0.0
+SSP5,2100,13,Bush/scrub (C),Grass/Shrub,0,0.0
+SSP5,2100,14,Low plants (D),Crops,0,0.0
+SSP5,2100,15,Bare rock/paved (E),Barren,0,0.0
+SSP5,2100,16,Bare soil/sand (F),Barren,0,0.0
+SSP5,2100,17,Water (G),Water,0,0.0

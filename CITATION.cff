@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: If you use this software, please cite both the software and the paper.
+title: Dynamic LCZ Projection
+abstract: >-
+  Projects how the built surface of a city changes to 2100 under each Shared
+  Socioeconomic Pathway, and downscales climate onto every projected surface at 1 km.
+type: software
+license: Apache-2.0
+repository-code: https://github.com/UMBE-LAB/Dynamic-LCZ-Projection
+version: 1.0.0
+authors:
+  - family-names: Marey
+    given-names: Ahmed
+    orcid: https://orcid.org/0000-0002-2377-6982
+  - family-names: Lu
+    given-names: Henry
+  - family-names: Gaur
+    given-names: Abhishek
+  - family-names: Aloui
+    given-names: Malek
+  - family-names: Goubran
+    given-names: Sherif
+  - family-names: Wang
+    given-names: Liangzhu
+preferred-citation:
+  type: article
+  title: >-
+    Dynamic urban morphology projections reveal critical biases in future
+    climate risk assessment
+  authors:
+    - family-names: Marey
+      given-names: Ahmed
+    - family-names: Lu
+      given-names: Henry
+    - family-names: Gaur
+      given-names: Abhishek
+    - family-names: Aloui
+      given-names: Malek
+    - family-names: Goubran
+      given-names: Sherif
+    - family-names: Wang
+      given-names: Liangzhu

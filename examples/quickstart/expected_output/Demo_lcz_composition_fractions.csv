@@ -1,0 +1,111 @@
+Category,LCZ_Type,Year,Fraction,Data_Type
+Urban Land,2,1996,0.1111111111111111,historical
+Urban Land,3,1996,0.29292929292929293,historical
+Urban Land,5,1996,0.30303030303030304,historical
+Urban Land,6,1996,0.20202020202020202,historical
+Urban Land,8,1996,0.09090909090909091,historical
+Urban Land,2,2006,0.09844559585492228,historical
+Urban Land,3,2006,0.3005181347150259,historical
+Urban Land,5,2006,0.22797927461139897,historical
+Urban Land,6,2006,0.29015544041450775,historical
+Urban Land,8,2006,0.08290155440414508,historical
+Urban Land,2,2016,0.08333333333333333,historical
+Urban Land,3,2016,0.286231884057971,historical
+Urban Land,5,2016,0.27898550724637683,historical
+Urban Land,6,2016,0.2644927536231884,historical
+Urban Land,8,2016,0.08695652173913043,historical
+Urban Land,2,2030,0.08333333333333333,projected
+Urban Land,3,2030,0.286231884057971,projected
+Urban Land,5,2030,0.27898550724637683,projected
+Urban Land,6,2030,0.2644927536231884,projected
+Urban Land,8,2030,0.08695652173913043,projected
+Urban Land,2,2040,0.07316243266598055,projected
+Urban Land,3,2040,0.28244213142999075,projected
+Urban Land,5,2040,0.27737457437553636,projected
+Urban Land,6,2040,0.2808229873089033,projected
+Urban Land,8,2040,0.08619787421958897,projected
+Urban Land,2,2050,0.07001036947849558,projected
+Urban Land,3,2050,0.28036743410662784,projected
+Urban Land,5,2050,0.2810254682824604,projected
+Urban Land,6,2050,0.28224827300418026,projected
+Urban Land,8,2050,0.08634845512823587,projected
+Urban Land,2,2060,0.06788965489201931,projected
+Urban Land,3,2060,0.2761419798557833,projected
+Urban Land,5,2060,0.2891431447781322,projected
+Urban Land,6,2060,0.2801575604349407,projected
+Urban Land,8,2060,0.08666766003912454,projected
+Urban Land,2,2070,0.06508552450933841,projected
+Urban Land,3,2070,0.277523300699623,projected
+Urban Land,5,2070,0.2859567190852858,projected
+Urban Land,6,2070,0.2843755730659418,projected
+Urban Land,8,2070,0.08705888263981111,projected
+Urban Land,2,2080,0.06524231281161597,projected
+Urban Land,3,2080,0.2785540643541768,projected
+Urban Land,5,2080,0.2825851771987643,projected
+Urban Land,6,2080,0.2862263188497959,projected
+Urban Land,8,2080,0.08739212678564709,projected
+Urban Land,2,2090,0.06709199949591411,projected
+Urban Land,3,2090,0.2760715308788633,projected
+Urban Land,5,2090,0.28864793522640186,projected
+Urban Land,6,2090,0.2801181669882206,projected
+Urban Land,8,2090,0.08807036741060009,projected
+Urban Land,2,2100,0.06725637347022981,projected
+Urban Land,3,2100,0.27667321347472107,projected
+Urban Land,5,2100,0.2886732836797411,projected
+Urban Land,6,2100,0.2785334853608792,projected
+Urban Land,8,2100,0.08886364401442896,projected
+Forest,11,1996,1.0,historical
+Forest,11,2006,1.0,historical
+Forest,11,2016,1.0,historical
+Forest,11,2030,1.0,projected
+Forest,11,2040,1.0,projected
+Forest,11,2050,1.0,projected
+Forest,11,2060,1.0,projected
+Forest,11,2070,1.0,projected
+Forest,11,2080,1.0,projected
+Forest,11,2090,1.0,projected
+Forest,11,2100,1.0,projected
+Grass/Shrub,13,1996,1.0,historical
+Grass/Shrub,13,2006,1.0,historical
+Grass/Shrub,13,2016,1.0,historical
+Grass/Shrub,13,2030,1.0,projected
+Grass/Shrub,13,2040,1.0,projected
+Grass/Shrub,13,2050,1.0,projected
+Grass/Shrub,13,2060,1.0,projected
+Grass/Shrub,13,2070,1.0,projected
+Grass/Shrub,13,2080,1.0,projected
+Grass/Shrub,13,2090,1.0,projected
+Grass/Shrub,13,2100,1.0,projected
+Crops,14,1996,1.0,historical
+Crops,14,2006,1.0,historical
+Crops,14,2016,1.0,historical
+Crops,14,2030,1.0,projected
+Crops,14,2040,1.0,projected
+Crops,14,2050,1.0,projected
+Crops,14,2060,1.0,projected
+Crops,14,2070,1.0,projected
+Crops,14,2080,1.0,projected
+Crops,14,2090,1.0,projected
+Crops,14,2100,1.0,projected
+Barren,15,1996,1.0,historical
+Barren,15,2006,1.0,historical
+Barren,15,2016,1.0,historical
+Barren,15,2030,1.0,projected
+Barren,15,2040,1.0,projected
+Barren,15,2050,1.0,projected
+Barren,15,2060,1.0,projected
+Barren,15,2070,1.0,projected
+Barren,15,2080,1.0,projected
+Barren,15,2090,1.0,projected
+Barren,15,2100,1.0,projected
+Water,17,1996,1.0,historical
+Water,17,2006,1.0,historical
+Water,17,2016,1.0,historical
+Water,17,2030,1.0,projected
+Water,17,2040,1.0,projected
+Water,17,2050,1.0,projected
+Water,17,2060,1.0,projected
+Water,17,2070,1.0,projected
+Water,17,2080,1.0,projected
+Water,17,2090,1.0,projected
+Water,17,2100,1.0,projected
