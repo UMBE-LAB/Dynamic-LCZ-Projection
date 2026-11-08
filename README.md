@@ -113,6 +113,17 @@ bash run_precompute.sh
 The trained checkpoint is 7.35 GB. It is too large for version control and is archived
 separately.
 
+## Data from this project
+
+The projected LCZ maps for the three cities, the WRF surface parameters derived from
+them, the downscaled 1-km fields and the trained CASPER weights are archived at Zenodo
+under doi:10.5281/zenodo.24060753.
+
+The archive holds four items. `projected_lcz_maps.tar` has 41 rasters per city, which is
+the present-day baseline plus five pathways across eight decades. `lcz_surface_parameters.tar`
+has the four geo_em files for each of those scenarios. `downscaling_results.tar` has the
+cached 1-km fields per scenario. `CASPER-CESM.pt` is the trained emulator.
+
 ## Layout
 
 ```
