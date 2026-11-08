@@ -94,10 +94,9 @@ caches after a correction to the present-day land use. `refix_footprint.py` re-e
 every cache on a fixed 2100 urban footprint, so that a growing urban extent does not
 dilute the urban mean.
 
-These three scripts import `inference`, `ncc_figures` and `adaptive_spatial` from the
-CASPER repository, which is linked at the end of this file. Put that repository on
-`PYTHONPATH` before you run them, and install its requirements. The `requirements.txt`
-here covers stage 1 only.
+These three scripts import `inference` and `adaptive_spatial` from the CASPER repository,
+which is linked at the end of this file. Put that repository on `PYTHONPATH` before you
+run them, and install its requirements. The `requirements.txt` here covers stage 1 only.
 
 The three drivers read their paths from the environment. Set `CASPER_DATA` to the
 preprocessed forcing directory and `CASPER_MODEL` to the trained checkpoint. Both are
@@ -112,6 +111,30 @@ bash run_precompute.sh
 
 The trained checkpoint is 7.35 GB. It is too large for version control and is archived
 separately.
+
+## Reproducing the paper figures
+
+`make_figures.sh` regenerates every figure in the paper. `ncc_figures.py` draws Figures 2
+to 5 and the supplementary figures and tables from the cached fields. `build_nature_fig1.py`
+and `build_nature_fig6.py` draw the two schematic figures.
+
+```bash
+pip install -r requirements.txt -r requirements-figures.txt
+export CASPER_DATA=/path/to/processed_data_CESM
+export CASPER_CACHE=/path/to/downscaling/caches
+export CASPER_MODEL=/path/to/CASPER-CESM.pt
+export LCZ_PROJECT_DIR=/path/to/lcz/projection
+export NE_DATA=/path/to/natural_earth_geojson
+bash make_figures.sh
+```
+
+Every path comes from the environment and each script stops with a clear message if one
+is missing. Figures go to `figures/`, or to `FIGURE_OUT` if you set it. The coastlines
+need the 10 m `coastline`, `lakes` and `rivers_lake_centerlines` geojson files from
+[Natural Earth](https://www.naturalearthdata.com/downloads/10m-physical-vectors/), which
+are too large to keep here. `figure_assets/` holds the two inputs that are not
+reproducible from the data: the schematic of the model grid and the bias decomposition
+that Figure 1 reports.
 
 ## Data from this project
 
@@ -134,6 +157,13 @@ lcz_composition.py     step 2
 lcz_projector.py       step 3
 transition_matrix.py   step 4
 __main__.py            lets the directory itself be run with `python .`
+
+ncc_figures.py         figure and cache library shared by stage 2 and the figure scripts
+shoreline.py           coastlines for the map panels
+build_nature_fig1.py   Figure 1
+build_nature_fig6.py   Figure 6
+make_figures.sh        regenerates every figure in the paper
+figure_assets/         figure inputs that are not reproducible from the data
 
 precompute_caches.py   one CASPER inference pass per scenario, writes the field caches
 refix_static.py        rebuilds the static-baseline caches from the corrected present-day LCZ

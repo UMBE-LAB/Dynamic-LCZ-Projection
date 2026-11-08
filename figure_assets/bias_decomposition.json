@@ -1,0 +1,92 @@
+[
+  {
+    "city": "Montreal",
+    "nS": 1539,
+    "nD": 3120,
+    "nI": 1523,
+    "nE": 1597,
+    "exp_frac": 0.5118589743589743,
+    "T2": {
+      "total_bias": 0.582489013671875,
+      "intensif_bias": 0.184051513671875,
+      "expansion_bias": 0.962493896484375,
+      "wI": 0.4881410256410256,
+      "wE": 0.5118589743589743,
+      "intensif_contrib": 0.08984309465457231,
+      "expansion_contrib": 0.492661138681265,
+      "uhi_static_ownextent": 1.417877197265625,
+      "uhi_static_union": 0.820465087890625
+    },
+    "TSK": {
+      "total_bias": 1.49066162109375,
+      "intensif_bias": 0.32440185546875,
+      "expansion_bias": 2.602935791015625,
+      "wI": 0.4881410256410256,
+      "wE": 0.5118589743589743,
+      "intensif_contrib": 0.1583538544483674,
+      "expansion_contrib": 1.3323360443115233,
+      "uhi_static_ownextent": 3.145904541015625,
+      "uhi_static_union": 1.6798095703125
+    }
+  },
+  {
+    "city": "Toronto",
+    "nS": 2995,
+    "nD": 4433,
+    "nI": 2995,
+    "nE": 1438,
+    "exp_frac": 0.3243852921272276,
+    "T2": {
+      "total_bias": 0.380401611328125,
+      "intensif_bias": 0.08251953125,
+      "expansion_bias": 1.000823974609375,
+      "wI": 0.6756147078727723,
+      "wE": 0.3243852921272276,
+      "intensif_contrib": 0.05575140899926686,
+      "expansion_contrib": 0.32465257737159514,
+      "uhi_static_ownextent": 2.1234130859375,
+      "uhi_static_union": 1.631011962890625
+    },
+    "TSK": {
+      "total_bias": 1.0980224609375,
+      "intensif_bias": 0.1412353515625,
+      "expansion_bias": 3.090911865234375,
+      "wI": 0.6756147078727723,
+      "wE": 0.3243852921272276,
+      "intensif_contrib": 0.09542068078720674,
+      "expansion_contrib": 1.0026463483435668,
+      "uhi_static_ownextent": 4.63922119140625,
+      "uhi_static_union": 3.455963134765625
+    }
+  },
+  {
+    "city": "Vancouver",
+    "nS": 938,
+    "nD": 1270,
+    "nI": 934,
+    "nE": 336,
+    "exp_frac": 0.26456692913385826,
+    "T2": {
+      "total_bias": 0.13787841796875,
+      "intensif_bias": 0.012451171875,
+      "expansion_bias": 0.486358642578125,
+      "wI": 0.7354330708661417,
+      "wE": 0.26456692913385826,
+      "intensif_contrib": 0.009157003567913385,
+      "expansion_contrib": 0.1286744125246063,
+      "uhi_static_ownextent": 2.386016845703125,
+      "uhi_static_union": 2.231842041015625
+    },
+    "TSK": {
+      "total_bias": 0.39801025390625,
+      "intensif_bias": 0.071136474609375,
+      "expansion_bias": 1.306671142578125,
+      "wI": 0.7354330708661417,
+      "wE": 0.26456692913385826,
+      "intensif_contrib": 0.05231611597256398,
+      "expansion_contrib": 0.34570197157972443,
+      "uhi_static_ownextent": 3.75701904296875,
+      "uhi_static_union": 3.4014892578125
+    }
+  }
+]

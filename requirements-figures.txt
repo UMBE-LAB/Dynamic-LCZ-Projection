@@ -1,0 +1,7 @@
+# Extra packages needed only to regenerate the paper figures.
+# Install alongside requirements.txt.
+torch>=2.0
+tqdm>=4.66
+PyYAML>=6.0
+scipy>=1.11
+pillow>=10.0
