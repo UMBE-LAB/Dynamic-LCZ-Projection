@@ -9,12 +9,6 @@ that assumption. It evolves the surface under each pathway, downscales the same
 atmosphere onto both the evolving and the static surface, and takes the difference. That
 difference isolates the climate signal of urban form alone.
 
-The code produces the results in *Dynamic urban morphology projections reveal critical
-biases in future climate risk assessment*. Release v1.0.1 is the version those results came from.
-
-Status: research prototype. It supports a paper under review. Bugs will be fixed. New
-features are not planned.
-
 ## Quick start
 
 This runs the whole of stage 1 on synthetic input, with no download and no external
@@ -56,10 +50,10 @@ python run_pipeline.py --lcz-dir Vancouver_LCZs
 
 # Name the global datasets and the output directory
 python run_pipeline.py \
-  --lcz-dir Toronto_LCZs \
+  --lcz-dir Vancouver_LCZs \
   --global-urban-dir /data/Global_Urban \
   --global-landuse-dir /data/Global_LU \
-  --output-dir Toronto_lcz_projection_results
+  --output-dir Vancouver_lcz_projection_results
 
 # Skip the optional transition matrix and the validation imagery
 python run_pipeline.py --lcz-dir Vancouver_LCZs --skip-transition --no-validation
@@ -196,7 +190,6 @@ into the surface parameters that the emulator reads.
 
 ## Citing this work
 
-Cite the paper and the software. `CITATION.cff` holds both entries, and GitHub renders
-them from the sidebar. `AUTHORS.md` lists the contributors and `CONTRIBUTING.md` explains
-how to propose a change. `AGENTS.md` records the files that must not change without
-review.
+`CITATION.cff` holds the citation entries, and GitHub renders them from the sidebar.
+`AUTHORS.md` lists the contributors and `CONTRIBUTING.md` explains how to propose a
+change. `AGENTS.md` records the files that must not change without review.
