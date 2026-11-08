@@ -144,7 +144,8 @@ tests/                 regression tests over the quick-start example
 
 ## Requirements
 
-Python 3.11 or newer.
+Python 3.11 or newer. The pipeline is pure Python and runs on Linux, macOS and Windows.
+Continuous integration tests it on Linux. Development used macOS and Windows.
 
 ```bash
 pip install -r requirements.txt
