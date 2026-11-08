@@ -9,6 +9,11 @@ that assumption. It evolves the surface under each pathway, downscales the same
 atmosphere onto both the evolving and the static surface, and takes the difference. That
 difference isolates the climate signal of urban form alone.
 
+![Study overview](docs/images/fig1_overview.png)
+
+The surface evolves under each pathway, the same atmosphere is downscaled onto the
+evolving and the static surface, and the difference is the morphological signal.
+
 ## Quick start
 
 This runs the whole of stage 1 on synthetic input, with no download and no external
@@ -113,6 +118,21 @@ bash run_precompute.sh
 The trained checkpoint is 7.35 GB. It is too large for version control and is archived
 separately.
 
+## Selected results
+
+The canopy urban heat island, 2030 to 2100, for each city and forcing level. Solid lines
+are the evolving surface under each pathway and the dashed line is the static surface.
+Montreal separates most: under SSP5 the heat island grows while the static run stays
+flat. Under SSP3 the surface contracts and the static run overstates the heat island.
+
+![Urban heat island over the century](docs/images/fig4_uhi_timeseries.png)
+
+Where that difference falls at 2100. Warming concentrates on new construction at the
+expanding edge rather than on the existing core, and it changes sign under the
+contraction pathway.
+
+![End-of-century morphological warming](docs/images/fig3_spatial_warming.png)
+
 ## Reproducing the paper figures
 
 `make_figures.sh` regenerates Figures 2 to 5 and the supplementary figures and tables from
@@ -134,13 +154,9 @@ need the 10 m `coastline`, `lakes` and `rivers_lake_centerlines` geojson files f
 [Natural Earth](https://www.naturalearthdata.com/downloads/10m-physical-vectors/), which
 are too large to keep here.
 
-Figures 1 and 6 are schematics rather than plots, and they are authored in draw.io rather
-than in Python. `figures_1_and_6/` holds the editable sources. Open `figures_1_and_6.drawio`
-in diagrams.net; it has one page per figure. `make_panels.py` regenerates the two vector
-analysis panels that the schematics embed, and `NOTES.txt` records the design decisions
-and two caveats worth reading: the decomposition bar widths are computed from the rounded
-values the paper reports rather than from raw output, and the humidex curves are preserved
-from the earlier figure with newly drawn axes calibrated to it.
+Figures 1 and 6 are explanatory schematics rather than results, and they are drawn by hand
+rather than generated from data. They are not reproduced here. Figure 1 appears at the top
+of this file.
 
 ## Data from this project
 
@@ -167,7 +183,7 @@ __main__.py            lets the directory itself be run with `python .`
 ncc_figures.py         figure and cache library shared by stage 2 and the figure scripts
 shoreline.py           coastlines for the map panels
 make_figures.sh        regenerates Figures 2 to 5 and the supplementary items
-figures_1_and_6/       draw.io sources for the two schematic figures
+docs/images/           figures shown in this file
 
 precompute_caches.py   one CASPER inference pass per scenario, writes the field caches
 refix_static.py        rebuilds the static-baseline caches from the corrected present-day LCZ
