@@ -5,6 +5,8 @@ set -u
 : "${CASPER_MODEL:?set CASPER_MODEL to the trained CASPER checkpoint}"
 : "${CASPER_CACHE:=$PWD/cache}"
 : "${CASPER_CONFIG:=$PWD/config_mac.yaml}"
+: "${STATIC_GEOEM_DIR:?set STATIC_GEOEM_DIR to the directory of corrected present-day geo_em files}"
+: "${LCZ_PROJECT_DIR:?set LCZ_PROJECT_DIR to the directory holding <city>/Future_LCZ_geo_em}"
 : "${CASPER_CITIES:=Montreal Toronto Vancouver}"
 : "${CASPER_BATCH:=16}"
 

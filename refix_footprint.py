@@ -13,13 +13,13 @@ and Fig 5 (humidex) compare static vs dynamic over identical cells.
 
 import argparse
 import logging
+import os
 import sys
 from pathlib import Path
 
 import numpy as np
 import xarray as xr
 
-sys.path.insert(0, '/Users/ahmed/casper')
 import inference
 import precompute_caches as pc
 from ncc_figures import load_norm_params, get_output_layout, build_layout
@@ -31,13 +31,11 @@ logger = logging.getLogger('refix_fp')
 
 LU_MEAN, LU_STD = 8.425, 6.773
 CH51_INDEX = 51
-DRIVE = "/Volumes/Seagate Portable Drive"
-LCZ = f"{DRIVE}/LCZ Projection"
+LCZ = os.environ.get('LCZ_PROJECT_DIR', '')
 # Cities whose STATIC predictions were built from MODIS -> need ch51 injection.
-STATIC_GEOEM = {
-    'Toronto':   '/Users/ahmed/casper/static_geoem/Toronto/geo_em.d03_LCZ_params.nc',
-    'Vancouver': '/Users/ahmed/casper/static_geoem/Vancouver/geo_em.d03_LCZ_params.nc',
-}
+STATIC_GEOEM_DIR = Path(os.environ.get('STATIC_GEOEM_DIR', ''))
+STATIC_GEOEM = {c: str(STATIC_GEOEM_DIR / c / 'geo_em.d03_LCZ_params.nc')
+                for c in ('Toronto', 'Vancouver')}
 
 # --- channel-51 injection (static-with-wrong-prediction only) ---
 _CH51 = {'arr': None}

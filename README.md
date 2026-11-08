@@ -92,7 +92,8 @@ exist, and it restarts itself after a crash.
 Two repair passes follow the main run. `refix_static.py` rebuilds the static-baseline
 caches after a correction to the present-day land use. `refix_footprint.py` re-evaluates
 every cache on a fixed 2100 urban footprint, so that a growing urban extent does not
-dilute the urban mean.
+dilute the urban mean. Both also read `STATIC_GEOEM_DIR`, which holds the corrected
+present-day geo_em file per city, and `refix_footprint.py` reads `LCZ_PROJECT_DIR`.
 
 These three scripts import `inference` and `adaptive_spatial` from the CASPER repository,
 which is linked at the end of this file. Put that repository on `PYTHONPATH` before you
