@@ -24,6 +24,8 @@ authors:
     given-names: Malek
   - family-names: Goubran
     given-names: Sherif
+  - family-names: Santamouris
+    given-names: Matthaios
   - family-names: Wang
     given-names: Liangzhu
 preferred-citation:
@@ -42,5 +44,7 @@ preferred-citation:
       given-names: Malek
     - family-names: Goubran
       given-names: Sherif
+    - family-names: Santamouris
+      given-names: Matthaios
     - family-names: Wang
       given-names: Liangzhu
